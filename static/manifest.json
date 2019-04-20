@@ -7,27 +7,27 @@
   "background_color": "#2196f3",
   "icons": [
     {
-      "src": "/todo-react/static/icons/48x48.png",
+      "src": "/static/icons/48x48.png",
       "sizes": "48x48"
     },
     {
-      "src": "/todo-react/static/icons/96x96.png",
+      "src": "/static/icons/96x96.png",
       "sizes": "96x96"
     },
     {
-      "src": "/todo-react/static/icons/192x192.png",
+      "src": "/static/icons/192x192.png",
       "sizes": "192x192"
     },
     {
-      "src": "/todo-react/static/icons/256x256.png",
+      "src": "/static/icons/256x256.png",
       "sizes": "256x256"
     },
     {
-      "src": "/todo-react/static/icons/384x384.png",
+      "src": "/static/icons/384x384.png",
       "sizes": "384x384"
     },
     {
-      "src": "/todo-react/static/icons/512x512.png",
+      "src": "/static/icons/512x512.png",
       "sizes": "512x512"
     }
   ]
